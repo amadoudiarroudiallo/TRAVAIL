@@ -5,6 +5,7 @@ footer{
     padding: 20px;
     text-align: center;
     font-size:xx-large;
+}
 
 
 body{
@@ -76,4 +77,9 @@ nav ul {
 
 .image img{
   width: 25rem; 
+}
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
